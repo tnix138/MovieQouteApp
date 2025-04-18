@@ -29,6 +29,7 @@
                     Opacity="0.4" Text="جمله بعدی :" 
                     TextColor="White"
                     Clicked="Button_Clicked"/>
+            
         </Grid>
 
     </Grid>
